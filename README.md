@@ -11,4 +11,5 @@
 
 #### 4. Convolutional Neural Network
 * [Basic Building Blocks](./cnn_basicblock.ipynb)
-* [AlexNet](./cnn_basicblock.ipynb)
+* [AlexNet](./cnn_alexnet.ipynb)
+* [EfficientNet](./cnn_efficientnet.ipynb)
