@@ -8,6 +8,7 @@
 #### 2. Data Loading
 
 #### 3. Simple Model
+* [Building Blocks](./simple_buildingblocks.ipynb)
 
 #### 4. Convolutional Neural Network
 * [Basic Building Blocks](./cnn_basicblock.ipynb)
