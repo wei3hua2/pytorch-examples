@@ -5,4 +5,10 @@
 #### 1. Basic Operations
 * [Tensor](./basic_tensor.ipynb)
 
-#### 2. Convolutional Neural Network
+#### 2. Data Loading
+
+#### 3. Simple Model
+
+#### 4. Convolutional Neural Network
+* [Basic Building Blocks](./cnn_basicblock.ipynb)
+* [AlexNet](./cnn_basicblock.ipynb)
