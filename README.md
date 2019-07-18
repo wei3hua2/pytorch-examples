@@ -3,6 +3,6 @@
 ## Table of Contents
 
 #### 1. Basic Operations
-* TODO
+* [Tensor](./basic-tensor.ipynb)
 
 #### 2. Convolutional Neural Network
